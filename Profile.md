@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @harivishnuzoho
+- 👋 Hi, I’m Hari Vishnu G
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning in Zoho
+- 🌱 I’m in Zoho
 - 💞️ I’m looking to collaborate on Code
 - 📫 Reach me with +91 9123577173
 
